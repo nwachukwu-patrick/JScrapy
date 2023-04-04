@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/CHIBIKE/jar" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Desktop/CHIBIKE/jar/htmlunit-2.64.0-bin/htmlunit-2.64.0/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/CHIBIKE/jar" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/CHIBIKE/jar" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/CHIBIKE/jar" recursive="false" type="SOURCES" />
+  </library>
+</component>
